@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RestService.View.UpdateContactPage">
+    <StackLayout>
+        <ActivityIndicator AutomationId="indIsBusy" IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" />
+        <StackLayout BindingContext="{Binding Contact}">
+            <Entry AutomationId="entContactName" Placeholder="Nombre" Text="{Binding FullName}" />
+            <Entry AutomationId="entPhoneNumber" Placeholder="Teléfono" Text="{Binding PhoneNumber}" />
+            <Entry AutomationId="entEMail" Placeholder="E-Mail" Text="{Binding Email}" />
+        </StackLayout>
+        <Button AutomationId="btnAddContact" Text="Editar Contacto" Command="{Binding UpdateContactCommand}" />
+
+    </StackLayout>
+</ContentPage>

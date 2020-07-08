@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\RestService\RestService\RestService\bin\Debug\netstandard2.0\RestService.deps.json
+C:\Users\hp\source\repos\RestService\RestService\RestService\bin\Debug\netstandard2.0\RestService.dll
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\RestService.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\RestService.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\RestService.AssemblyInfo.cs
+C:\Users\hp\source\repos\RestService\RestService\RestService\bin\Debug\netstandard2.0\ref\RestService.dll
+C:\Users\hp\source\repos\RestService\RestService\RestService\bin\Debug\netstandard2.0\RestService.pdb
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\View\AddContactPage.xaml.g.cs
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\View\DemoRestServicePage.xaml.g.cs
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\View\UpdateContactPage.xaml.g.cs
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\RestService.dll
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\ref\RestService.dll
+C:\Users\hp\source\repos\RestService\RestService\RestService\obj\Debug\netstandard2.0\RestService.pdb
